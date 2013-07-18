@@ -1,0 +1,7 @@
+<?
+
+	function nombre(){
+		return "Uriel";		
+	}
+
+?>
